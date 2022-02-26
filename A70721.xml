@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Doctor's commons, or, A true narrative of Mr. Hickeringill's appearance there, June 8, 1681 upon a citation for marrying people without bannes or license, with a protestation against their spiritual court : to which is added, An essay concerning the virtue of sequestrations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70721</idno>
+            <idno type="STC">Wing N954</idno>
+            <idno type="STC">ESTC R21758</idno>
+            <idno type="EEBO-CITATION">12017264</idno>
+            <idno type="OCLC">ocm 12017264</idno>
+            <idno type="VID">52559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52559)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 567:3, 669:6b, or 1153:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Doctor's commons, or, A true narrative of Mr. Hickeringill's appearance there, June 8, 1681 upon a citation for marrying people without bannes or license, with a protestation against their spiritual court : to which is added, An essay concerning the virtue of sequestrations.</title>
+                  <author>Hickeringill, Edmund, 1631-1708. Essay concerning sequestrations.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>This work appears as follows: reel 567:3 as Wing H1823 (number cancelled); reel 669:6b as Wing N954 (bound with: Wing H1797, does not appear in reel guide); reel 1153:17 as Wing N954.</note>
+                  <note>Reproduction of originals in Bodleian and Huntington Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hickeringill, Edmund, 1631-1708.</term>
+               <term>Church of England --  Government.</term>
+               <term>Marriage (Canon law)</term>
+               <term>Attachment and garnishment --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52559:1"/>
+            <pb n="1" facs="tcp:52559:1" rendition="simple:additions"/>
+            <head>NEWS FROM Doctor's Commons: Or, A True NARRATIVE OF Mr. <hi>HICKERINGILL'S</hi> Appearance there, <hi>June</hi> 8. 1681.</head>
+            <head type="sub">Upon a Citation for Marrying People without Bannes or Licenſe.</head>
+            <head type="sub">WITH A PROTESTATION AGAINST THEIR SPIRITUAL COURT.</head>
+            <head type="sub">To which is Added, An ESSAY Concerning the Virtue of SEQUESTRATIONS.</head>
+            <p>IT is too notorious and vulgarly known, that the <hi>Waſpiſh Swarms</hi> in <hi>Doctors Commons,</hi> have been as <hi>ſtinging as ſtingy</hi> againſt Mr. <hi>Hick<g ref="char:EOLhyphen"/>eringill;</hi> and the <hi>little In7s;ects</hi> as full of malice as venom againſt him as their hearts could hold, ever ſince the Publication of the <hi>Naked Truth, the Second Part.</hi>
+            </p>
+            <p>And yet, poor Hearts, they had better have been quiet and let him alone, for they always meddle with him <hi>to their hurt;</hi> as well as ſhame and confu<g ref="char:EOLhyphen"/>ſion, and come home by weeping-croſs.</p>
+            <p>But ſome men will never take warning: <hi>Quos Deus intendit perdere de<g ref="char:EOLunhyphen"/>mentat Prius,</hi> was once accounted truth, though ſpoke by a Stoick.
+<q>
+                  <l>Men doom'd to Ruin when their Facts are bad,</l>
+                  <l>Do blindly run upon their Death like mad.</l>
+               </q>
+            </p>
+            <p>We will begin (as the <hi>Men of Doctors Commons</hi> did begin with <hi>Mr. Hickeringill,</hi> namely) with the Citation, in theſe words following.</p>
+            <q>
+               <pb n="2" facs="tcp:52559:2"/>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="citation">
+                        <opener>
+                           <signed>
+                              <hi>RObertus Wiſeman,</hi> Miles &amp; Legum Doctor, Almae Curiae Cant. de Archu<g ref="char:EOLhyphen"/>bus, <hi>London,</hi> Officialis Principalis legitimè conſtitutus,</signed>
+                           <salute>
+                              <g ref="char:V">Ʋ</g>niverſis &amp; ſingulis Clericis &amp; Literatis quibuſcunque in &amp; per totam Provinciam <hi>Cant,</hi> ubilibet conſtitut. ſalutem.</salute>
+                        </opener>
+                        <p>Vobis conjunctim &amp; diviſim committimus, ac firmiter injungendo mandamus, quatenus (ratione literarum requiſitorialium ab Ordinario loci obtent.) Citetis, ſeu citari faciatis peremptoriè <hi>Edmundum Hick<g ref="char:EOLhyphen"/>eringill,</hi> Clericum, Rectorem Rectoriae &amp; Eccleſiae Parochialis omnium Sancto<g ref="char:EOLhyphen"/>rum in Villa <hi>Colceſtriae</hi> in Com. <hi>Eſſex,</hi> Diaec.<hi>Lond Cantiaeque</hi> Provinc. quod compareat coram nobis, noſtróve Secretario, aut alio Judice in hac parte compe<g ref="char:EOLhyphen"/>ten. quocunque in Aula publica infra Hoſpitium Dominorum Advocatorum <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> locoque judiciali ibidem ſexto die poſt Citationem hujuſmodi ei in hac par<g ref="char:EOLhyphen"/>te factam ſi Juridicus fuerit, alioquin proximo die Juridico ex hinc ſequen. haris cauſarum ibidem ad jura reddenda conſuet. certis Articulis, Capitulis, ſive Interrogatoriis meram animae ſuae, ſalutem, morumque &amp; exceſſuum ſuorum reformationem &amp; praeſertim ejus ſolemnizationem, ſeu potius prophanationem Matrimonii inter diverſas perſonas clandeſtinè abſque eorum Bannis in Eccle<g ref="char:EOLhyphen"/>ſtis ſuis Parochialibus trinâ vice publicatis, vel Licentiis ſive facultatibus in ea parte legitimè obtent juxta Canones &amp; Conſtitutiones Eccleſiae Anglicanae in ea parte editas &amp; proviſas, aliaque crimina &amp; delicta concernen. ei cum ve<g ref="char:EOLhyphen"/>nerit ex officio noſtro ad promotionem <hi>Thomae Doughty,</hi> Generoſi objiciend. &amp; miniſtrand. de Juſtitia ſive juramento reſponſur. ulteriuſque factur. &amp; recep<g ref="char:EOLhyphen"/>tur. quod juſtum fuerit in hac parte: &amp; quid in praemiſſis feceritis, Nos no<g ref="char:EOLhyphen"/>ſtrumve ſurrogatum aut alium Judicem in hae parte competen. quemcunque de<g ref="char:EOLhyphen"/>bite certificetis una cum preſentibus.</p>
+                        <closer>
+                           <dateline>Dat. <date>Triceſimo <hi>May,</hi> 1681.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>WE live in an Age wherein ſome men are grown <hi>Libertines;</hi> and ſince the Diſſolution of the Parliament at <hi>Oxford,</hi> ſome are grown ſo wonderful light and wanton, that they <hi>kick up their Heels</hi> at all Corre<g ref="char:EOLhyphen"/>ction; and defie a Parliament with as much courage as they defie God and the Day of Judgment, when they cry <hi>God-damn-me.</hi>
+            </p>
+            <p>Theſe are very merry days, if they would but laſt.</p>
+            <p>When Mr. <hi>Hickeringill</hi> came into the <hi>Hall</hi> at <hi>Doctors Commons, June</hi> 8. 1681. He went up to the Doctors, Habited in their <hi>Formalities,</hi> and with their Caps on, and he alſo put on his Hat; which Sir <hi>Robert Wiſeman</hi> no ſooner eſpyed, but he bid <hi>Mr. Hickeringill</hi> be uncovered: But <hi>Mr. Hicker<g ref="char:EOLhyphen"/>ingill</hi> replyed to him in Greek, and to all Sir <hi>Robert</hi>'s Repartees; and diſ<g ref="char:EOLhyphen"/>courſed for a conſiderable time: <hi>Mr. Hickeringill</hi> diſcourſed ſtill in Greek; at length Sir <hi>Robert</hi>'s patience being ſpent, (and none of the Doctors would find any more Greek to anſwer <hi>Mr. Hickeringil</hi> than Sir <hi>Robert</hi> did), it was ordered, that this appearance, and Anſwer in Greek, only ſhould be Regiſtred as a Non-appearance: Wherefore then <hi>Mr. Hickeringill</hi> did Re<g ref="char:EOLhyphen"/>peat
+<pb n="3" facs="tcp:52559:2"/>in Engliſh that he had ſaid in Greek; telling Sir <hi>Robert,</hi> that he firſt demanded to ſee or hear their Commiſſion and Authority for citing him thus from his Family and Home, and out of the Dioceſs where he dwells, contrary to 23 <hi>H.</hi> 8.9. And that till it did appear to him that this was his Majeſties Court Eccleſiaſtical, he would pay no reſpect to it, nor be un<g ref="char:EOLhyphen"/>covered before men that were all (except Sir <hi>Robert</hi>) his Juniors at the U<g ref="char:EOLhyphen"/>niverſity, and moſt of them very much his Inferiors in many other reſpects, not ſuitable to his modeſty there to particularize; Degrees (ſo eaſily pur<g ref="char:EOLhyphen"/>chas'd) and empty Titles being admir'd by none but Women and Fools. Whereupon, inſtead of ſhewing a Commiſſion, Sir <hi>Robert</hi> again bid him be uncovered, which ſtill he refuſed: Then Sir <hi>Robert</hi> made ſigns to an old Fellow, a kind of Sumner, to come behind <hi>Mr. Hickeringill</hi> and ſnatch his Hat off, which he did; but Mr. <hi>Hickeringill</hi> forthwith ſnatcht his Hat from the ſaid Fellow, and clapt it faſt upon his Head, and there kept it during his ſtay there; throwing amongſt them a Proteſtation (which was read in Court) and to this effect.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>The Proteſtation of <hi>Mr. Edmund Hickeringill,</hi> Rector of the Rectory of <hi>All-Saints</hi> in <hi>Colcheſter,</hi> in the County of <hi>Eſſex,</hi> Delivered to Sir <hi>Robert Wiſeman,</hi> at the <hi>Hall</hi> at <hi>Doctors Commons, June</hi> 8. 1681.</head>
+                        <p n="1">1. I Proteſt againſt all your Proceedings as contrary to his Majeſties Laws and Prerogative, ſince you will ſhew no <hi>Commiſſion</hi> derived from his Majeſty for ſuch Proceedings, and whereby you claim Juriſdiction over me, and that by the ſight of which Commiſſion, or hearing the ſame read, I might know whether it were requiſite in my caſe and circumſtances to ap<g ref="char:EOLhyphen"/>peal from the ſame, or make exceptions to the ſame, if it do not give you cognizance of the Crime, or pretended Crime, objected againſt me; and whether it be not counterfeit, or not Sealed with the Kings Great Seal of <hi>England:</hi> The old <hi>Eccleſiaſtical Popiſh Juriſdiction</hi> being (as their <hi>Divine-Service</hi> and <hi>Maſs) Foreign,</hi> and in a <hi>Foreign Language,</hi> and exploded by 1 <hi>Eliz.</hi> 1. by the name of <hi>Foreign Juriſdictions,</hi> and the High Commiſſion Court (by the ſame Statute, 1 <hi>Eliz.</hi> 1.) ſet up in the room thereof, being alſo exploded by 13 <hi>Carol.</hi> 2.12. wherein his preſent Majeſty obliges him<g ref="char:EOLhyphen"/>ſelf to grant no more Commiſſions Eccleſiaſtical, which makes me believe you have no Commiſſion at all, nor Authority to cite me thus before you: And therefore it is that I will not be uncovered before you, until it appear that you are his Majeſties Court Eccleſiaſtical, by Commiſſion derived from him.</p>
+                        <p n="2">II. I proteſt againſt your Proceedings, becauſe in the Citation of me (hi<g ref="char:EOLhyphen"/>ther) there is no mention of the Kings Name, nor the Kings Arms in the Seal thereof, but only the name of <hi>Robert Wiſeman,</hi> Knight, and Doctor of Law, and to appear before <hi>him or his Surrogate,</hi> whereas he is neither <hi>Arch-Biſhop of Canterbury,</hi> nor ſo much as <hi>Dean of the Arches;</hi> and therefore he being (at beſt) but a Surrogate or Deputy, he cannot have nor conſtitute a Surrogate of Deputy under him.</p>
+                        <p n="3">
+                           <pb n="4" facs="tcp:52559:3"/> III. I proteſt againſt your Proceedings, becauſe I am cited out of the Dioceſs where I dwell, contrary to the 23. <hi>H.</hi> 8.9.</p>
+                        <p n="4">IV. I proteſt againſt your Proceedings, becauſe there is no certain day nor time mentioned in your Citation, to limit and direct my appearance at a time certain.</p>
+                        <p n="5">V. I proteſt againſt your Proceedings, becauſe there is no certain and particular <hi>penal Crime</hi> (mentioned in particular in the Citation) to which and for which I am bound to make anſwer: For it is a <hi>duty,</hi> not a <hi>crime,</hi> for a Presbyter (as I am) to joyn People together in holy Matrimony; nor any Profanation, though the Regiſter get not unmerciful and unjuſt Fees for a formal Licenſe; nor any penalty for marrying People without Bannes or Licenſe; nor any thing more cuſromary or more univerſally practiſed a<g ref="char:EOLhyphen"/>mong the Miniſters in the Country, where I live, than to marry without Bannes or Licenſe: Nor do I acknowledge that the <hi>ſixty ſecond Canon</hi> (pre<g ref="char:EOLhyphen"/>tended to be conſirmed by King <hi>James</hi>) is a Law of <hi>England,</hi> nor any other <hi>Canons</hi> or things that are not enacted and confirmed by King and Parlia<g ref="char:EOLhyphen"/>ment; the naked truth whereof none dare deny, without incurring a <hi>Prae<g ref="char:EOLhyphen"/>munire; the King and Parliament together,</hi> having in <hi>England the only Le<g ref="char:EOLhyphen"/>giſlative power.</hi> Beſides, the <hi>Canons</hi> claſh one againſt another; for thoſe made in Queen <hi>Elizabeth</hi>'s time order, That ſuch as marry without Bannes or Licenſe, ſhall be ſuſpended <hi>ab oſſicio, for ſix months only:</hi> But the ſixty ſecond of King <hi>James</hi>'s Canons decrees Suſpenſion for three years; whereby it ſeems, the Synod-men, the longer they laſted, the more they grew and improved (not in goodneſs and mercy) but in rigour and ſeverity. God bleſs us, and all Engliſhmen from ſuch Legiſlators; and the bottom of the Plot, and deſign of that Canon and Proſecution upon the ſame, ſeems to be calculated to get mony for Licenſes, for the benefit of Regiſters, Com<g ref="char:EOLhyphen"/>miſſaries, Officials, and ſuch like motly-Crew and Lay-Elders, thoſe Ec<g ref="char:EOLhyphen"/>cleſiaſtical Fellows, whilſt the Miniſters and Clergy do the drudgery, and truckle under them, and truckle for them: And is it not a Soul-ſaving and wholeſom Canon, that ſtops a Miniſters mouth, and ſilences him from Preaching the Goſpel for three years together, becauſe a couple are honeſt<g ref="char:EOLhyphen"/>ly married for Five Shillings, without giving the Commiſſaries, Officials, and Regiſters (thoſe <hi>Poſcinummia &amp; Crumine mulgae</hi>) eleven ſhillings and four pence more for a Licenſe?</p>
+                        <p n="6">VI. I proteſt againſt your Proceedings, <hi>Argumento ad Hominem,</hi> becauſe according to your own (not my) Canons, no Sentence ought to paſs upon a Presbyter, but by a Biſhop; and here is no Biſhop to hear the Proceedings, and therefore if afterwards any Biſhop do paſs Sentence, <hi>Re in anditâ in propriâ perſonâ</hi> He muſt do it by a blind implicit faith, in the reports of other men, which (I ſuppoſe) no Biſhop will be ſo raſh as to venture upon.</p>
+                        <closer>
+                           <signed>Edmund Hickeringill.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="5" facs="tcp:52559:3"/>
+            <p> Mr. <hi>Hickeringill</hi> told Sir <hi>Robert,</hi> the penalty and danger incur'd by the ſaid Statute of 23. <hi>Hen.</hi> 8, 9. for thus vexatiouſly citing him out of the Dioceſs; and threatned Sir <hi>Robert,</hi> that he would ſue him, and proſecute him according to that Statute.</p>
+            <p>But Sir <hi>Robert</hi> replied, That he would <hi>stop</hi> proceedings. Mr. <hi>Hickerin<g ref="char:EOLhyphen"/>gill</hi> (not content with that) replied, <hi>Who ſhall pay me for the vexatious Ci<g ref="char:EOLhyphen"/>tation, and unwarrantable trouble and charge you have put me to?</hi>
+            </p>
+            <p>But Sir <hi>Robert</hi> ſaid nothing to that, nor to the <hi>Proteſtation;</hi> it might as well have been <hi>Greek,</hi> for it <hi>non-pluſt</hi> all reply.</p>
+            <p>Nor are all the Sir <hi>Roberts</hi> (or) <hi>Wiſemen</hi> in <hi>England</hi> able to anſwer that Proteſtation; for who can patch up an old rotten foundation that (at firſt and at beſt) was but a Popiſh invention, not warranted in the Holy Scripture, for a Biſhop to vex and domineer, and pill and poll, and plague his Brethren, Clergy and Laity, biting and devouring (what even birds of prey will not do) their Kind, in ſpight of the Law of Chriſt, <hi>Luk.</hi> 22.25, 26) by illegal Fees, Extortions, Exactions, Gitations, Excommu<g ref="char:EOLhyphen"/>nications, Abſolutions, Diſpenſations, Commutations, Procurations, Vi<g ref="char:EOLhyphen"/>ſitations, Sequeſtrations, <hi>&amp;c.</hi>
+            </p>
+            <p>Which laſt is an art ſo dark and unintelligible, and as little known, as ſeldom or never inſiſted upon, of all other the myſteries of Iniquity: which makes me ſubjoin this following Eſſay,</p>
+            <p>But ſome will ſay, if <hi>Biſhops Courts</hi> be <hi>diſſolved</hi> (as ſeems to be undeniably prov'd in the <hi>Naked-Truth,</hi> and in a Book (ſo ſtiled) lately publiſhed; then what are Biſhops good for? And what ſhall they do? To which I anſwer, Let them ſit in Parliament, and other Councils, when his Majeſty ſhall think fit to call them; let them ſay their Prayers, Preach, give Alms, Baptize and Catechiſe, and to the work of their Miniſtry; and if that be not work enough for one man, (which was a great deal more than the Apoſtles ever did, who never were Parliament-men nor Privy-Councel<g ref="char:EOLhyphen"/>lors) then let them perſwade the King and Parllament (if they can) to ſet up their <hi>High-Commiſſion</hi> Court again, and give them <hi>power</hi> (as formerly) to be <hi>miſchievous.</hi>
+            </p>
+            <p>Bleſs us, (good God!) what would Ambition and Covetouſneſs, Rage and folly be at, if it could ſpeak?</p>
+            <p>Is not ſtately Lordſhips and Mannors, City and Country-houſes, vaſt Revenues, and great and manifold Preferments, enough to ſatisfie men, but they muſt rob the Spittle, and he uneaſie, except they have power to be miſchievous? Well, <hi>God forgive them,</hi> and give them repentance, (that's the worſt I wiſh them) and ſend them <hi>more money,</hi> and (when they have got <hi>more wit</hi> and <hi>more grace,</hi> then alſo, and not 'till then) <hi>more Power.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="essay">
+                        <pb n="6" facs="tcp:52559:4"/>
+                        <head>An Eſſay concerning Sequeſtrations, by <hi>Edm. Hickeringill.</hi>
+                        </head>
+                        <p>IF ever any <hi>Rags of Popery</hi> remain in a Proteſtant Conſtitution and Government, (ſome think) that <hi>old Popiſh Invention</hi> called <hi>Sequeſtra<g ref="char:EOLhyphen"/>tion,</hi> will ſtill ſtand up and plead for its ſelf.</p>
+                        <p>
+                           <hi>Sequeſtration</hi> is a term of Art well known in the late Times, name<g ref="char:EOLhyphen"/>ly, when Lands in controverſie or diſpute, or in Abeyance, or <hi>in nubibus,</hi> are put into the hands of an indifferent perſon or perſons to retain the rents and profits, or take them into cuſtody, till the controverſie be deci<g ref="char:EOLhyphen"/>ded, and till there be a lawful Incumbent (by Inſtitution and Induction); or, if a Donative, until the Patron do beſtow the ſame upon a Clergy-man.</p>
+                        <p>Sequeſtration is a <hi>Roman</hi> word, and honeſt enough, if it had not been ſo often abus'd, and where Arbitrary Government (as in the late times) comes in faſhion, it is of uſe, of wicked uſe.</p>
+                        <p>For <hi>Silent leges inter arma,</hi> we muſt not talk of Law, of the ancient and fundamental Laws of <hi>England,</hi> when either War, Force, Popery (or its Twin) Arbitrary Goverment, comes into play, and is on the winning-hand.</p>
+                        <p>The Pope <hi>had a Trick of old,</hi> when any Biſhoprick or good Living be<g ref="char:EOLhyphen"/>came <hi>vacant,</hi> it <hi>ſhould go hard</hi> but he would have a <hi>ſnip out of it,</hi> before he put in a new Incumbent; and this taking the Benefits into his own hand, he called <hi>Sequeſtration,</hi> (that is) keeping the profits in an indifferent hand, to be ready for the next lawful Incumbent, having ſome reſpect in the <hi>inte<g ref="char:EOLhyphen"/>rim,</hi> in making ſome proviſion for the Cure, anſwerable to the profits of the vacant Benefice.</p>
+                        <p>The Kings of <hi>England,</hi> and the Pope, have (of old) had many a <hi>ſhrowd and weary Tugg</hi> for the Profits in the Vacancies of Biſhopricks, &amp;c. But King <hi>Hen.</hi> 8. and his <hi>own</hi> Daughter Qu. <hi>Eliz.</hi> (that <hi>ſet the Pope at Defiance</hi>) made bold to keep the Profits of the <hi>vacan</hi> Biſhopricks in their own hands, <hi>(righ and good reaſon),</hi> for by 35 <hi>Edw..</hi> 1.1. the King of <hi>England</hi> are declared the ſole &amp; only founders of Biſhopricks, and Archbiſhopricks, <hi>&amp;c.</hi> as other great then of the Realm, and Lords of Mannors, <hi>&amp;c.</hi> endow<g ref="char:EOLhyphen"/>ed the Pariſh-Churches; and therefore the cuſtody of the Profits of the <hi>Benefice</hi> (in the Vacation) belongs to the <hi>Patrons,</hi> and of the vacant Bi<g ref="char:EOLhyphen"/>ſhopricks to the <hi>Kings</hi> (and not the Biſhops) by 25 <hi>Edw.</hi> 3. <hi>Anno Dom.</hi> 1350, and by the Statute of <hi>Carliſle</hi> 35 <hi>Edw.</hi> 1.1.</p>
+                        <p>How comes the Pope then, and Biſhops, to be ſo buſie in ſending out Se<g ref="char:EOLhyphen"/>queſtrations in every Vacancy? why, ſome men love to be doing, if it be but at ſmall games <hi>(they'l play)</hi> rather than ſtick out; and ſend out Se<g ref="char:EOLhyphen"/>queſtrations, if but for the ſee ſake; <hi>come, come,</hi> ſomething has ſome ſavour. For ſome men dare in daſiance of the ſaid Statute, take upon them to Sequeſter the Profits of vacant Benefices, which the ſaid Statutes do aver to belong to the Patrons, in theſe very words 25 <hi>Edw.</hi> 3. Kings, Earls, Barons, and other Nobles, as Lords and Advowees, have had and ought to have the cuſtody of ſuch voidances. Beſides, men that love to be dubling, and have an Oar in every Boat, they think there is ſome ſport in caſting the Net, though it does not always bring of Fiſh in't.</p>
+                        <p>But a main reaſon certainly is, That they cannot endure to hear that Ec<g ref="char:EOLhyphen"/>cleſiaſtical Profits ſhould come <hi>into</hi> (though they came <hi>out of</hi>) <hi>Lay-fingers.</hi>
+                        </p>
+                        <p>And therefore a <hi>heavy-do they kept</hi> (the Biſhops) with Q. <hi>Eliz</hi> for keeping
+<pb n="7" facs="tcp:52559:4"/>the Biſhoprick of <hi>Ely</hi> ſo long vacant, and ſequenſtring all the ſtately Man<g ref="char:EOLhyphen"/>nors, Rents, Revenues (one of the beſt in <hi>England</hi> at that time) and put<g ref="char:EOLhyphen"/>ting the moneys thereof. (as at this day) into (a place that often needs the ſame) the <hi>Exchequer.</hi>
+                        </p>
+                        <p>Putting off the fretting-Biſhops with a Complement, namely that ſhe kept the ſaid ſtately and rich Biſhoprick vacant ſo long (as only) till ſhe could find a man <hi>fit</hi> for it. And the man that <hi>fitted her pretenſions</hi> (that is) would be content to part with the ſaid rich Lordſhips, Rents and Reve<g ref="char:EOLhyphen"/>nues, and <hi>in lieu thereof</hi> take a Penſion, was <hi>the man</hi> for her purpoſe, re<g ref="char:EOLhyphen"/>ſigning all to the Crown, (from whence they came, and that chang'd the rich Abbey of <hi>Ely</hi> into a <hi>Biſhops-See,</hi> in the reign of <hi>Hen.</hi> 1.) and in ex<g ref="char:EOLhyphen"/>change, contented with a yearly Penſion out of the ſaid Exchequer in rea<g ref="char:EOLhyphen"/>dy money when he gets it.</p>
+                        <p>Thus <hi>Hen.</hi> 1. kept the Archbiſhoprick of <hi>Canterbury</hi> by Sequeſtration, from the death of <hi>Anſelm</hi> (five years) till <hi>Rodolph</hi> (a man for his turn) ſu<g ref="char:EOLhyphen"/>ceeded, that <hi>Rodolph</hi> that would not conſecrate <hi>Thurſtan</hi> Archbiſhop of <hi>York,</hi> except he would ſwear obedience to him in the <hi>See of Canterbury: Thurſtan</hi> ſcorn'd <hi>the motion,</hi> and the Pope took part with <hi>Thurſtan,</hi> and bid him <hi>not yield and inch;</hi> but <hi>Rodolph</hi> endeavour'd to be above him, and the King took part with <hi>Rodolph,</hi> but to <hi>no purpoſe;</hi> for, the King was glad (at length) to connive and <hi>ſubmit.</hi>
+                        </p>
+                        <p>Nay, that I'le ſay for the Clergy in Popiſh times, and foppiſh times, they ſhall <hi>juſtle</hi> for the place, and <hi>buſtle</hi> for profit (where there's any to be got) as well as the beſt carnal Lay-man of them all.</p>
+                        <p>And the <hi>true reaſon</hi> (in Law) why the King, Nobles, Patrons, <hi>&amp;c.</hi> ought to have this Priviledg (which the Pope and Biſhops have long uſurpt), is (ſaith my Lord <hi>Cook</hi>) becauſe the King is <hi>ſole founder</hi> of Biſhopricks,<note place="margin">Inſtit. 1 Part: p. 344.</note> and Patron of Benefices; and at this day, all Donatives (which the King creates) ſhall (for this reaſon) be viſited by the Chancellor (not the Bi<g ref="char:EOLhyphen"/>ſhop nor Arch-deacon.) And if the King licenſe a ſubject to erect and found a Church or Chappel, it is to be viſited by the <hi>founder only,</hi> not by the Biſhops; And by parity of reaſon, the Churches and Chappels of diſſolved Monaſteries are to be viſited by the owners only, that bought and paid for them. And for like reaſon Kings of <hi>England</hi> (before the Pope's Uſurpati<g ref="char:EOLhyphen"/>on) (as ſole owners and founders of Biſhopricks) did deliver to the Biſhop-Elect the <hi>Croſier</hi> or Paſtoratoral ſtaff, and the Ring, whereby there <hi>was a wed<g ref="char:EOLhyphen"/>ding</hi> made betwixt him and his Church-Cathedral, or Mother-Church. And K. <hi>Hen.</hi> 1. (being requeſted by the Biſhop of <hi>Rome</hi> to make the Biſhopricks Elective) reſuſed;<note place="margin">
+                              <hi>Bak:</hi> Chroſſ:</note> but King <hi>John</hi> was glad to part with this choice flower of the Crown to preſerve the Crown its ſelf; or which otherwiſe that Biſhop had made bold to deprive him.</p>
+                        <p>'Tis true, at this day Biſhops are (in effect) the <hi>Kings creatures,</hi> I mean <hi>of his creation</hi> only, and the Election (by the <hi>Chapter,</hi> &amp;c.) is but <hi>meer fanm;</hi> but ſtill the <hi>Chapter</hi> (at this day) does not part with this <hi>ſha<g ref="char:EOLhyphen"/>dow;</hi> as neither with their <hi>grants of Sequeſtrations,</hi> Licenſes to Preach, Eccleſiaſtical Court-keeping, demand of Synodals, Procurations, exacting Fees and Oaths from Churchwardens, (unconſcionable Oaths <hi>like the &amp;c. Oaths,</hi> and impoſſible to be kept) <hi>all, all ſhadows</hi> that ſtill they <hi>dote on,</hi> how illegal ſoever, and <hi>ridiculous</hi> to all <hi>unbiaſt</hi> and <hi>knowing</hi> men.</p>
+                        <p>One would think the Pope might be ſatisfied with St. <hi>Peter</hi>'s <hi>Patrimony</hi> (as big and rich as all <hi>England</hi>) in <hi>Italy,</hi> at leaſt with thoſe may happy obventions for Indulgences, Jubilees, Miracles, Canonization, Annates,
+<pb n="8" facs="tcp:52559:5"/>Inſtallations, Penſions, Conſecrations, <hi>&amp;c.</hi> and not (as he does) claim and get the <hi>firſt-fruits alſo,</hi> and <hi>Tenths</hi> of every Benefice in Popedom.</p>
+                        <p>And one would think that the <hi>magnificent and extravagant</hi> charity and benevolence of thoſe that founded and endowed the Biſhopricks in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with <hi>ſuch large</hi> Immunities, Profits, Honours, Priviledges, Mannors, Pa<g ref="char:EOLhyphen"/>laces, <hi>Country and City-houſes, &amp;c.</hi> might content the <hi>greedieſt Biſhop</hi> in Chriſtendom, without <hi>ſhipping</hi> ſome part of the <hi>fleece</hi> of every <hi>flock.</hi>
+                        </p>
+                        <p>Surely they do eſteem themſelves of another make, another temper, other mettal, and of another mould than other Prieſts; or, at leaſt, that the Bi<g ref="char:EOLhyphen"/>ſhop is <hi>the man,</hi> and the Rectors and Vicars, but <hi>his Journey-men,</hi> or Curates; (for ſo it ſeems to be intimated by that paſſage, <hi>Send down upon our Biſhops and <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>urates</hi>); and as if the Rectors and Curates in <hi>England</hi> has not as <hi>un<g ref="char:EOLhyphen"/>doubted</hi> a right and <hi>Freehold</hi> in their Benefices, as a Biſhop in his Biſhoprick; which <hi>(as they certainly have)</hi> ſo they cannot be deprived or loſe the ſame, <hi>but by twelve men of their Peers,</hi> according to thoſe Statutes (that one would <hi>wonder at the impudence</hi> of ſuch as <hi>dare</hi> invade them), namely, 9 <hi>Hen.</hi> 3.29-25.25 <hi>Edw.</hi> 3.4-28 <hi>Edw.</hi> 3.3-36 <hi>Edw.</hi> 3.15. 17 <hi>Car.</hi> 1.10. And they will certainly come within the danger of thoſe Statutes when<g ref="char:EOLhyphen"/>ever they are ſo venturous as to truſt to their Sequeſtations as a Title in Law, <note place="margin">
+                              <hi>Cook.</hi> Inſtit. part 1.344. a.</note> or think it ſufficient whereupon to ground an Ejectment<g ref="char:punc">▪</g> or diſpoſſeſs any man of his Poſſeſſions; whether his Title to that Poſſeſſion be good or bad, it is not of ſpiritual cognizance; for a Benefice, whether void or not void, ſhall be tried by the Common-Law. And God keep us all and our Freeholds from <hi>Arbitrary-ſway,</hi> and out of the <hi>hands</hi> (ſhall I ſay?) clutches and <hi>paws</hi> of <hi>greedy dogs</hi> that can <hi>never have enough,</hi> I mean un<g ref="char:EOLhyphen"/>reaſonable and wicked men, <q>who ſhow their <hi>abilities</hi> in nothing more than being <hi>able to cruſh;</hi> the <hi>more's the pity,</hi> (I ſay again) that they ſhould have more <hi>power</hi> than <hi>wit</hi> or <hi>grace.</hi>
+                           </q>
+                        </p>
+                        <p>
+                           <q>Thus in the days of <hi>Popery,</hi> if there hapned to be in any part of the Land, a ſupereminent piece of <hi>good land,</hi> fat Meadows, pleaſant and ſtately timber'd woods, a ſerene air, a rich ſoil, and a convenient ſitua<g ref="char:EOLhyphen"/>tion and habitation, then the <hi>Church-mens fingers itcht</hi> to be at it, and then—<hi>Hey</hi>—for St. <hi>Clare,</hi> St. <hi>Katharine,</hi> or St. <hi>Bennet.</hi> The <hi>good land</hi> was ſoon converted to Popery and Superſition, and became— <hi>the Holy land,</hi> and <hi>Church-land,</hi> belonging to an Abbey, Priory or Nun<g ref="char:EOLhyphen"/>nery of the <hi>Benedictines, Franciſcans, Dominicans, Carthuſians, &amp;c.</hi>
+                           </q>
+                        </p>
+                        <p>
+                           <q>And though this <hi>Spiritual Jingo Janutus</hi> is clear enough diſcovered in <hi>England,</hi> yet ſtill <hi>the ſame itch</hi> ſticks to ſome mens fingers; and they are ſtill in defiance of Statutes, (mens Proprieties, Advowſons, and Lay-fees), <hi>ſcratching and clawing, fingering, and playing their tricks</hi> and their pranks with the <hi>Leiger-demain</hi> of a Sequeſtration; playing their Canons and Proclamations (as of old <hi>moſt Arbitrarily</hi>) againſt the Sacred and funda<g ref="char:EOLhyphen"/>mental Statutes of the Realm, and <hi>is it not high time</hi> then that they ſhould be lookt after, what were the men that occaſion'd (by evil coun<g ref="char:EOLhyphen"/>ſel) the Veterane miſchiefs?</q>
+                        </p>
+                        <p>And if <hi>at this time of day</hi> they be ſo daring and bold, when their Juriſ<g ref="char:EOLhyphen"/>diction is ſo <hi>cripled,</hi> what would they do, nay, what would they not do, if they again retreive (as ſome men hope) their <hi>High-Commiſſion</hi> Court? without which, what <hi>(ever did, or ever)</hi> can their inferiour Courts ſigni<g ref="char:EOLhyphen"/>fie, more than a <hi>May-game,</hi> or to be <hi>laught at?</hi> 
+                           <q>But, if the <hi>Inquiſition</hi> be ſet up again, then <hi>have, at the Naked Truth</hi> with fire and faggot, Bell, Book and Candle, and with a vengeance: But, <hi>Dat, Deus immiti cornua curta.</hi>—</q>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Janeway</hi> in <hi>Queens Head,</hi> Alley in <hi>Pater-Noſter-Row,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
